@@ -1,0 +1,40 @@
+[
+  {
+    "organization": "nostarmad",
+    "products": [
+      "developers",
+      "rice"
+    ],
+    "marketValue": "10%",
+    "address": "warri",
+    "ceo": "cnn",
+    "country": "Taiwan",
+    "noOfEmployees": 20,
+    "employees": [
+      " ana",
+      "ana "
+    ],
+    "createdAt": "2023-01-13T19:03:50.993Z",
+    "updatedAt": "2023-01-13T19:10:35.705Z",
+    "id": 1
+  },
+  {
+    "organization": "node nomad",
+    "products": [
+      "developers",
+      "rice"
+    ],
+    "marketValue": "10%",
+    "address": "warri",
+    "ceo": "cnn",
+    "country": "Taiwan",
+    "noOfEmployees": 20,
+    "employees": [
+      " ana",
+      "ana "
+    ],
+    "createdAt": "2023-01-13T19:03:54.707Z",
+    "updatedAt": "2023-01-13T19:03:54.707Z",
+    "id": 2
+  }
+]
